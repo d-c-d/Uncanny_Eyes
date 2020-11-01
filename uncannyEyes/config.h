@@ -3,6 +3,8 @@
 // exist on the smaller SAMD M0 & M4 boards, so you may need to make other
 // selections:
 
+#define ADAFRUIT_HALLOWING
+
 // GRAPHICS SETTINGS (appearance of eye) -----------------------------------
 
 // If using a SINGLE EYE, you might want this next line enabled, which
