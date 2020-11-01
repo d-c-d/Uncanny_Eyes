@@ -4,6 +4,7 @@
 // selections:
 
 #define ADAFRUIT_HALLOWING
+#define LEFT_EYE
 
 // GRAPHICS SETTINGS (appearance of eye) -----------------------------------
 
